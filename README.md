@@ -1,5 +1,5 @@
 
-  <h2 align="center"><a href="https://basicweather-app.netlify.app" target="_blank">Weather App</a></h2>
+  <h2 align="center"><a href="https://basicweather-app.netlify.app" target="_blank">Weather App</a></h2> <hr>
 
 <div align="center">
   <img alt="Demo" src="weatherApp.png" />
@@ -21,7 +21,7 @@ In this project i use html,css,js.
 Before you begin, ensure you have met the following requirements:
 
 - Web browser with JavaScript support.
-- Code editor for further development.
+- Code editor for further development.<hr>
 
 
 ## Ingredients
