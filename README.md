@@ -1,15 +1,28 @@
-<h1 align="center"><a href="https://basicweather-app.netlify.app" target="_blank"># weather-app</a></h1>
+<h2 align="center">
+  <a href="https://basicweather-app.netlify.app" target="_blank">Weather App</a>
+</h2>
 
+This is a simple weather application that allows users to check the weather in different cities.
 
-
-
-
-<h2>About</h2>
+## About
 #This is my work , a basic weather app ,
 In this project i use html,css,js.
 
+## Features
 
-<h2>Ingredients</h2>
+- Displays current weather information for a specified city.
+- Provides weather details like temperature, humidity, cloud percentage, etc.
+- Allows users to check weather in other predefined cities.
+
+## Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+- Web browser with JavaScript support.
+- Code editor for further development.
+
+
+## Ingredients
 <p align=center>
     <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
     <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
