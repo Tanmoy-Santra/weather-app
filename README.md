@@ -1,5 +1,5 @@
 
-  <a href="https://basicweather-app.netlify.app" target="_blank"><h2 align="center">Weather App</h2></a>
+  <h2 align="center"><a href="https://basicweather-app.netlify.app" target="_blank">Weather App</a></h2>
 
 
 This is a simple weather application that allows users to check the weather in different cities.
