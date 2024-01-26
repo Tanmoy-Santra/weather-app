@@ -2,7 +2,7 @@
   <h2 align="center"><a href="https://basicweather-app.netlify.app" target="_blank">Weather App</a></h2>
 
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+  <img alt="Demo" src="[./Images/readme-img1.png" ](https://github.com/Tanmoy-Santra/weather-app/blob/main/weatherApp.png)/>
 </div>
 
 ## About
