@@ -1,11 +1,11 @@
-<h2 align="center">
-  <a href="https://basicweather-app.netlify.app" target="_blank"><h2>Weather App</h2></a>
-</h2>
+
+  <a href="https://basicweather-app.netlify.app" target="_blank"><h2 align="center">Weather App</h2></a>
+
 
 This is a simple weather application that allows users to check the weather in different cities.
 
 ## About
-#This is my work , a basic weather app ,
+This is my work , a basic weather app ,
 In this project i use html,css,js.
 
 ## Features
